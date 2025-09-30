@@ -1,0 +1,2 @@
+personal_statement.txt
+안녕하세요 웹 개발자 취준생 시안입니다.
